@@ -1,5 +1,9 @@
 # PHP Code
+This repo has PHP code that I wrote while learning.
 
+Following is the directory structure.
+
+```plaintext
 .
 ├── Arithmetic_Operations.php
 ├── Array.php
@@ -9,17 +13,17 @@
 ├── Comparision_Operators.php
 ├── Concatenation.php
 ├── Cookie
-│   ├── Set Cookit.php
-│   └── View Cookie.php
+│   ├── Set Cookit.php
+│   └── View Cookie.php
 ├── Create_Image.php
 ├── Create PDF.php
 ├── CT1.php
 ├── Database
-│   ├── Connection.php
-│   ├── Database_using_PDO.php
-│   ├── Insert.php
-│   ├── project.html
-│   └── Project.php
+│   ├── Connection.php
+│   ├── Database_using_PDO.php
+│   ├── Insert.php
+│   ├── project.html
+│   └── Project.php
 ├── f1.txt
 ├── foreach loop.php
 ├── form_for_manual.php
@@ -32,9 +36,10 @@
 ├── Send_Email.php
 ├── Serialization.php
 ├── Sessions
-│   ├── ex.php
-│   ├── Session Access.php
-│   ├── Session Destroy.php
-│   └── Set Session.php
+│   ├── ex.php
+│   ├── Session Access.php
+│   ├── Session Destroy.php
+│   └── Set Session.php
 ├── tree.txt
 └── Variables.php
+```
